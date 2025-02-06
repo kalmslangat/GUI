@@ -1,0 +1,1 @@
+I am creating  a Hirst spot painting using the turtle module. I have used a colorgram.py module to extract the colors used in the painting.The turtle methods used are :setheading(),dot(),forward() e.t.c
